@@ -4,15 +4,15 @@ files:
     visible: true
     placeholders:
       - offset: 57
-        length: 69
+        length: 55
         placeholder_text: '# TODO найдите и распечатайте количество уникальных символов
       в строке'
         initial_state:
           length: 69
           offset: 57
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
         encrypted_possible_answer: |-
           count_unique_chars = len(set(str_))
           print(count_unique_chars)
@@ -29,5 +29,8 @@ files:
     text: |
       6
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 28 Mar 2026 14:00:04 UTC"
 record: -1

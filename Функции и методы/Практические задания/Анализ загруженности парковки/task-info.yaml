@@ -4,14 +4,14 @@ files:
     visible: true
     placeholders:
       - offset: 0
-        length: 48
+        length: 179
         placeholder_text: '# TODO Напишите функцию `calculate_parking_load`'
         initial_state:
           length: 48
           offset: 0
         initialized_from_dependency: false
         selected: false
-        status: Unchecked
+        status: Solved
         encrypted_possible_answer: |-
           def calculate_parking_load(total_parking_spaces, occupied_parking_spaces):
               parking_load = (occupied_parking_spaces / total_parking_spaces) * 100
@@ -87,5 +87,8 @@ files:
   - name: tests/__init__.py
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 29 Mar 2026 20:58:11 UTC"
 record: -1

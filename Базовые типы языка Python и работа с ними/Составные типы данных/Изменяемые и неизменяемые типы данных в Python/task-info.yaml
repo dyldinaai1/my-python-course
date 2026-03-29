@@ -4,14 +4,14 @@ files:
     visible: true
     placeholders:
       - offset: 0
-        length: 33
+        length: 306
         placeholder_text: '# TODO исправьте опечатку в слове'
         initial_state:
           length: 33
           offset: 0
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
         encrypted_possible_answer: |-
           fruits = ["яблоко", "банан", "опельсин", "виноград"]  # список фруктов
           
@@ -31,5 +31,8 @@ files:
     text: |
       ['яблоко', 'банан', 'aпельсин', 'виноград']
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 29 Mar 2026 20:54:12 UTC"
 record: -1

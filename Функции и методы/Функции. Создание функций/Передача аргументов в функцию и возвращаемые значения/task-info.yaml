@@ -4,28 +4,28 @@ files:
     visible: true
     placeholders:
       - offset: 0
-        length: 42
+        length: 14
         placeholder_text: '# TODO Напишите функцию `multiply_numbers`'
         initial_state:
           length: 42
           offset: 0
         initialized_from_dependency: false
         selected: false
-        status: Unchecked
+        status: Solved
         encrypted_possible_answer: |-
           def multiply_numbers(a, b):
               product = a * b
               return product
-      - offset: 45
-        length: 95
+      - offset: 17
+        length: 196
         placeholder_text: '# TODO Перемножте с помощью функции `multiply_numbers` при
       пары чисел и распечатайте результаты'
         initial_state:
           length: 95
           offset: 45
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
         encrypted_possible_answer: |-
           result1 = multiply_numbers(2, 3)
           result2 = multiply_numbers(4, 5)
@@ -50,5 +50,8 @@ files:
       20
       42
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 29 Mar 2026 20:57:08 UTC"
 record: -1

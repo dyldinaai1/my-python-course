@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 102
-        length: 103
+        length: 293
         placeholder_text: |-
           # TODO заменить значение пропущенного элемента средним арифметическим
           
@@ -13,8 +13,8 @@ files:
           length: 103
           offset: 102
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
         encrypted_possible_answer: |-
           index_missing_item = 4
           
@@ -39,6 +39,9 @@ files:
     text: |
       Измененный список: [2, -93, -2, 8, -15.65, -44, -1, -85, -14, 90, -22, -90, -100, -8, 38, -92, -45, 67, 53, 25]
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 28 Mar 2026 14:02:15 UTC"
 record: -1
 solution_hidden: true

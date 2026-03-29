@@ -23,6 +23,9 @@ files:
       ['Маша', 'Петя', 'Саша']
       ['Оля', 'Кирилл', 'Коля']
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 28 Mar 2026 14:19:44 UTC"
 record: -1
 solution_hidden: true

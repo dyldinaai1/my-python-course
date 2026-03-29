@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 678
-        length: 66
+        length: 108
         placeholder_text: '# TODO Добавьте блок else c обработкой некорректного номера
       месяца'
         initial_state:
@@ -12,7 +12,7 @@ files:
           offset: 678
         initialized_from_dependency: false
         selected: false
-        status: Unchecked
+        status: Solved
         encrypted_possible_answer: |-
           else:
               print("Некорректный номер месяца")  # Если month не соответствует ни одному списку, выводим ошибку
@@ -44,5 +44,8 @@ files:
     text: |
       Некорректный номер месяца
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 29 Mar 2026 20:56:01 UTC"
 record: -1
