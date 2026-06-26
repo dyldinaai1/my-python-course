@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 0
-        length: 124
+        length: 370
         placeholder_text: |-
           # TODO Найдите количество книг, которое можно разместить на дискете
           
