@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 0
-        length: 48
+        length: 349
         placeholder_text: '# TODO Напишите функцию find_common_participants'
         initial_state:
           length: 48
@@ -21,7 +21,7 @@ files:
               common_participants.sort()
           
               return common_participants
-      - offset: 156
+      - offset: 457
         length: 65
         placeholder_text: '# TODO Провеьте работу функции с разделителем отличным от запятой'
         initial_state:
