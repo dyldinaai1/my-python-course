@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 0
-        length: 65
+        length: 262
         placeholder_text: |-
           # TODO решите задачу
           def task() -> float:
@@ -13,7 +13,7 @@ files:
           
           print(task())
         initial_state:
-          length: 65
+          length: 262
           offset: 0
         initialized_from_dependency: false
         selected: false
@@ -50,41 +50,6 @@ files:
     learner_created: false
   - name: input.json
     visible: true
-    text: |-
-      [
-        {
-          "score": 0.0009456152645028281,
-          "weight": 1
-        },
-        {
-          "score": 0.00020640167757499364,
-          "weight": 1
-        },
-        {
-          "score": 0,
-          "weight": 1
-        },
-        {
-          "score": 1.6557065217391307,
-          "weight": 1
-        },
-        {
-          "score": 0,
-          "weight": 1
-        },
-        {
-          "score": 0.6066065217391303,
-          "weight": 1
-        },
-        {
-          "score": 0.03126181644071977,
-          "weight": 1
-        },
-        {
-          "score": 0.001253973281817707,
-          "weight": 1
-        }
-      ]
     learner_created: false
 status: Unchecked
 record: -1
