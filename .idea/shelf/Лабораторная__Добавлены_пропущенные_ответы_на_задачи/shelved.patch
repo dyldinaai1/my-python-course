@@ -1,0 +1,45 @@
+Index: Работа с источниками данных/Лабораторная работа/Найти сумму произведений из списка словарей/main.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># TODO решите задачу\r\ndef task() -> float:\r\n    ...\r\n\r\n\r\nprint(task())\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Работа с источниками данных/Лабораторная работа/Найти сумму произведений из списка словарей/main.py b/Работа с источниками данных/Лабораторная работа/Найти сумму произведений из списка словарей/main.py
+--- a/Работа с источниками данных/Лабораторная работа/Найти сумму произведений из списка словарей/main.py	(revision 8000dc7137a1bbae62fff9edc5a7a02f015420b4)
++++ b/Работа с источниками данных/Лабораторная работа/Найти сумму произведений из списка словарей/main.py	(date 1782436902216)
+@@ -1,6 +1,11 @@
+-# TODO решите задачу
++import json
++import sys
++
+ def task() -> float:
+-    ...
++    with open('input.json', encoding='utf-8') as f:
++        data = json.load(f)
++    total = sum(item['score'] * item['weight'] for item in data)
++    return round(total, 3)
+ 
+-
+-print(task())
++if __name__ == '__main__':
++    print(task())
+Index: Работа с источниками данных/Лабораторная работа/Найти сумму произведений из списка словарей/task-info.yaml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>type: output\r\nfiles:\r\n  - name: main.py\r\n    visible: true\r\n    placeholders:\r\n      - offset: 0\r\n        length: 65\r\n        placeholder_text: |-\r\n          # TODO решите задачу\r\n          def task() -> float:\r\n              ...\r\n          \r\n          \r\n          print(task())\r\n        initial_state:\r\n          length: 65\r\n          offset: 0\r\n        initialized_from_dependency: false\r\n        selected: false\r\n        status: Unchecked\r\n        encrypted_possible_answer: |-\r\n          import json\r\n          \r\n          \r\n          def task() -> float:\r\n              filename = \"input.json\"\r\n              with open(filename) as f:\r\n                  json_data = json.load(f)\r\n          \r\n              sum_values = sum([item[\"score\"] * item[\"weight\"] for item in json_data])\r\n              return round(sum_values, 3)\r\n          \r\n          \r\n          print(task())\r\n    text: |\r\n      # TODO решите задачу\r\n      def task() -> float:\r\n          ...\r\n      \r\n      \r\n      print(task())\r\n    learner_created: false\r\n  - name: __init__.py\r\n    visible: false\r\n    learner_created: false\r\n  - name: tests/output.txt\r\n    visible: false\r\n    text: |\r\n      2.296\r\n    learner_created: false\r\n  - name: input.json\r\n    visible: true\r\n    text: |-\r\n      [\r\n        {\r\n          \"score\": 0.0009456152645028281,\r\n          \"weight\": 1\r\n        },\r\n        {\r\n          \"score\": 0.00020640167757499364,\r\n          \"weight\": 1\r\n        },\r\n        {\r\n          \"score\": 0,\r\n          \"weight\": 1\r\n        },\r\n        {\r\n          \"score\": 1.6557065217391307,\r\n          \"weight\": 1\r\n        },\r\n        {\r\n          \"score\": 0,\r\n          \"weight\": 1\r\n        },\r\n        {\r\n          \"score\": 0.6066065217391303,\r\n          \"weight\": 1\r\n        },\r\n        {\r\n          \"score\": 0.03126181644071977,\r\n          \"weight\": 1\r\n        },\r\n        {\r\n          \"score\": 0.001253973281817707,\r\n          \"weight\": 1\r\n        }\r\n      ]\r\n    learner_created: false\r\nstatus: Unchecked\r\nrecord: -1\r\nsolution_hidden: true\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Работа с источниками данных/Лабораторная работа/Найти сумму произведений из списка словарей/task-info.yaml b/Работа с источниками данных/Лабораторная работа/Найти сумму произведений из списка словарей/task-info.yaml
+--- a/Работа с источниками данных/Лабораторная работа/Найти сумму произведений из списка словарей/task-info.yaml	(revision 8000dc7137a1bbae62fff9edc5a7a02f015420b4)
++++ b/Работа с источниками данных/Лабораторная работа/Найти сумму произведений из списка словарей/task-info.yaml	(date 1782436900418)
+@@ -4,7 +4,7 @@
+     visible: true
+     placeholders:
+       - offset: 0
+-        length: 65
++        length: 262
+         placeholder_text: |-
+           # TODO решите задачу
+           def task() -> float:

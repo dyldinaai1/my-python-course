@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="585bb35a-2da5-4a6c-881f-f2d6ab56b925" name="Changes" comment="Лабораторная: Добавлены ответы на задачи">
+      <change beforePath="$PROJECT_DIR$/Функции и методы/Лабораторная работа/Поиск индекса элемента в списке товаров/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Функции и методы/Лабораторная работа/Поиск индекса элемента в списке товаров/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Функции и методы/Лабораторная работа/Поиск индекса элемента в списке товаров/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Функции и методы/Лабораторная работа/Поиск индекса элемента в списке товаров/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Функции и методы/Лабораторная работа/Поиск общих участников/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Функции и методы/Лабораторная работа/Поиск общих участников/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Функции и методы/Лабораторная работа/Поиск общих участников/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Функции и методы/Лабораторная работа/Поиск общих участников/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Функции и методы/Лабораторная работа/Частотный анализ букв в тексте/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Функции и методы/Лабораторная работа/Частотный анализ букв в тексте/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Функции и методы/Лабораторная работа/Частотный анализ букв в тексте/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Функции и методы/Лабораторная работа/Частотный анализ букв в тексте/task-info.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lab-3" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Функции и методы/Лабораторная работа/Поиск индекса элемента в списке товаров/main.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Функции и методы/Лабораторная работа/Поиск общих участников/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Функции и методы/Лабораторная работа/Частотный анализ букв в тексте/main.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "lab-4",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <module name="Course Python английский" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Работа с источниками данных/Лабораторная работа/Конвертер из CSV в JSON формат" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Работа с источниками данных/Лабораторная работа/Конвертер из CSV в JSON формат/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <module name="Course Python английский" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Работа с источниками данных/Лабораторная работа/Найти сумму произведений из списка словарей" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Работа с источниками данных/Лабораторная работа/Найти сумму произведений из списка словарей/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Лабораторная: Базовые типы языка Python и работа с ними">
+      <option name="closed" value="true" />
+      <created>1782434170342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782434170342</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Лабораторная: Работа с источниками данных">
+      <option name="closed" value="true" />
+      <created>1782434288630</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782434288630</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Лабораторная: Лабораторные работы">
+      <option name="closed" value="true" />
+      <created>1782434352314</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1782434352314</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Лабораторная: Функции и методы">
+      <option name="closed" value="true" />
+      <created>1782434411599</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1782434411599</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Лабораторная: Добавлены пропущенные ответы на задачи">
+      <option name="closed" value="true" />
+      <created>1782436749732</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782436749732</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Лабораторная: Добавлены пропущенные ответы на задачи">
+      <option name="closed" value="true" />
+      <created>1782437064616</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1782437064616</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Лабораторная: Добавлены ответы на задачи">
+      <option name="closed" value="true" />
+      <created>1782437238993</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1782437238993</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Базовые типы языка Python и работа с ними/Лабораторные работы" />
+    </ignored-roots>
+    <MESSAGE value="Лабораторная: Базовые типы языка Python и работа с ними" />
+    <MESSAGE value="Лабораторная: Работа с источниками данных" />
+    <MESSAGE value="Лабораторная: Лабораторные работы" />
+    <MESSAGE value="Лабораторная: Функции и методы" />
+    <MESSAGE value="Лабораторная: Добавлены пропущенные ответы на задачи" />
+    <MESSAGE value="Лабораторная: Добавлены ответы на задачи" />
+    <option name="LAST_COMMIT_MESSAGE" value="Лабораторная: Добавлены ответы на задачи" />
+  </component>
+</project>
