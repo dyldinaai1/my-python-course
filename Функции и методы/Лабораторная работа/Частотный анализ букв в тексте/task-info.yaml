@@ -4,13 +4,13 @@ files:
     visible: true
     placeholders:
       - offset: 0
-        length: 38
+        length: 933
         placeholder_text: '# TODO  Напишите функцию count_letters'
         initial_state:
           length: 38
           offset: 0
         initialized_from_dependency: false
-        selected: false
+        selected: true
         status: Unchecked
         encrypted_possible_answer: |-
           def count_letters(text):
@@ -24,7 +24,7 @@ files:
                       else:
                           letter_count[char] = 1
               return letter_count
-      - offset: 41
+      - offset: 936
         length: 43
         placeholder_text: '# TODO Напишите функцию calculate_frequency'
         initial_state:
@@ -37,14 +37,14 @@ files:
       \ = sum(letter_count.values())\n    \n    letter_frequency = {}\n    for current_letter,\
       \ count in letter_count.items():\n        letter_frequency[current_letter] =\
       \ count / total_letters\n        \n    return letter_frequency"
-      - offset: 999
+      - offset: 1894
         length: 57
         placeholder_text: '# TODO Распечатайте в столбик букву и её частоту в тексте'
         initial_state:
           length: 57
           offset: 999
         initialized_from_dependency: false
-        selected: false
+        selected: true
         status: Unchecked
         encrypted_possible_answer: |-
           count_dict = count_letters(main_str)
